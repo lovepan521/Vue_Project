@@ -1,6 +1,6 @@
 export const home = [
     {
-        path: '/home',
+        path: '/',
         meta: { title: '首页' },
         component: () => import('@/views/home/index.vue')
     }
